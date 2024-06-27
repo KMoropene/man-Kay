@@ -1,1 +1,1 @@
-# man-Kay
+Smart Attendance System
